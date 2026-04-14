@@ -1,0 +1,5 @@
+streamlit==1.53.0
+pandas==2.3.3
+redshift-connector==2.1.13
+python-dotenv==1.2.1
+plotly==6.6.0
